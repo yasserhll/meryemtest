@@ -1,0 +1,1 @@
+git clone <lien url de repo donne> <nom de dissier clone>
