@@ -1,1 +1,4 @@
 git clone <lien url de repo donne> <nom de dissier clone>
+git init c est une commandes pour inisialiser in repo 
+git commit c est une commades pour ecrit un message a dev suuivant 
+git push pour posher mon projet sur git 
